@@ -1,0 +1,25 @@
+[00] real=ham  pred=spam | Are you free now?can i call now?
+[01] real=spam pred=ham  | Latest News! Police station toilet stolen, cops have nothing to go on!
+[02] real=spam pred=ham  | dating:i have had two of these. Only started after i sent a text to talk sport radio last week. Any connection do you think or coincidence?
+[03] real=spam pred=ham  | Sorry! U can not unsubscribe yet. THE MOB offer package has a min term of 54 weeks> pls resubmit request after expiry. Reply THEMOB HELP 4 more info
+[04] real=ham  pred=spam | I'm at home. Please call
+[05] real=spam pred=ham  | LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.
+[06] real=spam pred=ham  | Hi this is Amy, we will be sending you a free phone number in a couple of days, which will give you an access to all the adult parties...
+[07] real=spam pred=ham  | Babe: U want me dont u baby! Im nasty and have a thing 4 filthyguys. Fancy a rude time with a sexy bitch. How about we go slo n hard! Txt XXX SLO(4msgs)
+[08] real=ham  pred=spam | Glad to see your reply.
+[09] real=ham  pred=spam | I am waiting for your call sir.
+[10] real=ham  pred=spam | I'm at work. Please call
+[11] real=ham  pred=spam | Plz note: if anyone calling from a mobile Co. &amp; asks u to type # &lt;#&gt;  or # &lt;#&gt; . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim 
+[12] real=ham  pred=spam | Yes.. now only saw your message..
+[13] real=ham  pred=spam | Your daily text from me â a favour this time
+[14] real=ham  pred=spam | Sir, i am waiting for your call, once free please call me.
+[15] real=spam pred=ham  | For sale - arsenal dartboard. Good condition but no doubles or trebles!
+[16] real=spam pred=ham  | Sorry I missed your call let's talk when you have the time. I'm on 07090201529
+[17] real=ham  pred=spam | Hi Harish's rent has been transfred to ur Acnt.
+[18] real=spam pred=ham  | CLAIRE here am havin borin time & am now alone U wanna cum over 2nite? Chat now 09099725823 hope 2 C U Luv CLAIRE xx CallsÂ£1/minmoremobsEMSPOBox45PO139WA
+[19] real=ham  pred=spam | Have you laid your airtel line to rest?
+[20] real=ham  pred=spam | I (Career Tel) have added u as a contact on INDYAROCKS.COM to send FREE SMS. To remove from phonebook - sms NO to  &lt;#&gt;
+[21] real=spam pred=ham  | ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O Â£250 3 WANT Â£800
+[22] real=ham  pred=spam | Total video converter free download type this in google search:)
+[23] real=ham  pred=spam | Dont you have message offer
+[24] real=ham  pred=spam | Please protect yourself from e-threats. SIB never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.
