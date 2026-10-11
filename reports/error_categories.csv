@@ -1,0 +1,9 @@
+error_type,category,errores,definicion
+falso negativo,spam conversacional,6,"Spam redactado como mensaje personal, sin números cortos, precios ni mayúsculas."
+falso negativo,etiqueta discutible,3,La etiqueta original es defendible en ambos sentidos; el error no es solo del modelo.
+falso negativo,notificación transaccional,1,Spam con forma de confirmación de compra o de cargo.
+falso positivo,léxico compartido,6,"Mensaje legítimo que usa palabras frecuentes en spam, como free, call u offer."
+falso positivo,texto insuficiente,5,Mensaje demasiado corto: pocas palabras y ninguna distintiva de su clase.
+falso positivo,aviso reenviado,2,"Advertencia legítima difundida en masa, con la forma de una campaña comercial."
+falso positivo,abreviaturas no estándar,1,Mensaje legítimo escrito con las abreviaturas típicas del spam comercial.
+falso positivo,etiqueta discutible,1,La etiqueta original es defendible en ambos sentidos; el error no es solo del modelo.
