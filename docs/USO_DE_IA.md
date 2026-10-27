@@ -10,12 +10,14 @@ verificadas y las correcciones realizadas. Esto es lo que ocurrió.
 **Claude Opus 5 (Anthropic)**, utilizada a través de Claude Code, con acceso al proyecto local y al
 aula virtual para leer el mandato y el manual de laboratorios.
 
-## Prompts relevantes
+## Instrucciones relevantes
 
-| Prompt | Para qué se usó |
+Las instrucciones se recogen **resumidas en su contenido, no transcritas literalmente**.
+
+| Instrucción dada al asistente | Qué determinó |
 |---|---|
-| "vamos hacer el primer ejercicio de la unidad 2" | Localizar el mandato, la rúbrica y los capítulos LAB04 y LAB05 en el aula, y plantear el plan de trabajo |
-| "te descargué los laboratorios guiados, ¿eran esos?" | Instalar el proyecto base del profesor y revisar su estructura antes de modificar nada |
+| Inicio del primer ejercicio de la Unidad 02 | Localizar el mandato, la rúbrica y los capítulos LAB04 y LAB05, y plantear el plan de trabajo |
+| Entrega de los laboratorios guiados descargados, para confirmar que eran los correctos | Instalar el proyecto base del profesor y revisar su estructura antes de modificar nada |
 | Instrucción de elegir el corpus | Comparar dos candidatos de UCI y justificar la selección y el descarte |
 
 ## Qué hizo el asistente
